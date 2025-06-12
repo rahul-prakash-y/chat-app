@@ -1,0 +1,5 @@
+export * from './HomePage'
+export * from './SignUpPage'
+export * from './SettingsPage'
+export * from './ProfilePage'
+export * from './LoginPage'
